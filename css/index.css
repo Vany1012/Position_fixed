@@ -1,0 +1,10 @@
+.nav-bar{
+    background-color: white;
+    position: sticky;
+    height: 150px;
+    top: 0px;
+    width: 100%;
+}
+h3{
+    text-align: center;
+}
