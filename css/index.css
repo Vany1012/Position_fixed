@@ -1,10 +1,31 @@
 .nav-bar{
-    background-color: white;
-    position: sticky;
-    height: 150px;
+    background-color: gray;
+    padding: 10px 0px;
+    position: fixed;
+    text-align: center;
     top: 0px;
+    left: opx;
     width: 100%;
 }
+.nav-bar li {
+    display: inline-block;
+    margin-right: 25PX;
+}
+.nav-bar a{
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+}
+.nav-bar a:hover{
+    text-decoration: underline;
+}
+
 h3{
     text-align: center;
+}
+h2 {
+    text-align: center;
+}
+body{
+    margin-top: 70px;
 }
